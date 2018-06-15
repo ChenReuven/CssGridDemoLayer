@@ -1,6 +1,6 @@
 # CssGridDemoLayer
 
-![alt text](https://gph.is/2MriwPg)
+![alt text](https://media.giphy.com/media/93d3dvhfGcXVTbbjgC/giphy.gif)
 
 ![alt text](https://github.com/ChenReuven/CssGridDemoLayer/blob/master/assets/small-screen.png)
 
