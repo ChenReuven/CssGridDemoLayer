@@ -42,3 +42,14 @@ html, body {
     background: mediumpurple;
     color: #FFFFFF;
 }
+
+@media only screen and (max-width: 480px) {
+   .container {
+       grid-template-areas:
+               "h h h h h h"
+               "m m m m m m"
+               "c c c c c c"
+               "f f f f f f";
+       grid-template-rows: 50px 50px auto 50px;
+   }
+}
